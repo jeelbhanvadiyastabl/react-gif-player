@@ -1,5 +1,5 @@
 {
-  "name": "react17-gif-player",
+  "name": "react18-gif-player",
   "version": "0.4.2",
   "description": "Please note that This project fork from react-gif-player(https://github.com/benwiley4000/react-gif-player). i am not maintaining it just opened to support react 17 since original project has not been updated",
   "main": "dist/gifplayer.js",
