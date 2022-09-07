@@ -1,3 +1,5 @@
+### Please note that This project fork from react-gif-player(https://github.com/benwiley4000/react-gif-player). i am not maintaining it just opened to support react 17 since original project has not been updated
+
 ### Please note that open-source maintenance is not my main focus at the moment.
 
 I will not be investing significant effort in the very near future to review and address issues on this repository. However I do want my software to be useable!
@@ -14,7 +16,7 @@ Keep in mind that I have a full-time job and a personal life as well as other ho
 
 ![react-gif-player in action](demo.gif)
 
-### [see a live demo here](https://benwiley4000.github.io/react-gif-player/)
+### [see a live demo here](https://github.com/jeelbhanvadiyastabl/react-gif-player/)
 
 Similar to Facebook's GIF toggle UI, this React component displays a still image preview by default, and swaps in an animated GIF when clicked. The images are preloaded as soon as the component mounts, or whenever a new source is passed.
 
