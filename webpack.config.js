@@ -3,7 +3,7 @@ var autoprefixer = require('autoprefixer');
 var MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 var webpackConfig = {
-  mode: process.env.NODE_ENV === 'development' ? 'development' : 'production',
+  mode: 'development',
   entry: './src/index.js',
   resolve: {
     extensions: ['.js', '.jsx']
