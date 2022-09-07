@@ -1,7 +1,7 @@
 {
-  "name": "react-gif-player",
+  "name": "react17-gif-player",
   "version": "0.4.2",
-  "description": "React component swaps still image with preloaded GIF on click",
+  "description": "Please note that This project fork from react-gif-player(https://github.com/benwiley4000/react-gif-player). i am not maintaining it just opened to support react 17 since original project has not been updated",
   "main": "dist/gifplayer.js",
   "scripts": {
     "build:clean": "rimraf dist",
@@ -55,12 +55,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benwiley4000/react-gif-player.git"
+    "url": "git+https://github.com/jeelbhanvadiyastabl/react-gif-player.git"
   },
   "bugs": {
-    "url": "https://github.com/benwiley4000/react-gif-player/issues"
+    "url": "https://github.com/jeelbhanvadiyastabl/react-gif-player/issues"
   },
-  "homepage": "https://github.com/benwiley4000/react-gif-player#readme",
+  "homepage": "https://github.com/jeelbhanvadiyastabl/react-gif-player#readme",
   "dependencies": {
     "prop-types": "^15.6.0",
     "sass": "^1.54.8",
